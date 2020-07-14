@@ -1,0 +1,3 @@
+/Users/mmartinez/Documents/git/est_datos_1/trabajo_en_clases/sem10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mmartinez/Documents/git/est_datos_1/trabajo_en_clases/sem10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mmartinez/Documents/git/est_datos_1/trabajo_en_clases/sem10/cmake-build-debug/CMakeFiles/sem10.dir

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mmartinez/Documents/git/est_datos_1/trabajo_en_clases/sem10/lab04/gestor/Gestor.cpp
+Gestor.h
+/Users/mmartinez/Documents/git/est_datos_1/trabajo_en_clases/sem10/lab04/gestor/Gestor.h
+
+/Users/mmartinez/Documents/git/est_datos_1/trabajo_en_clases/sem10/lab04/gestor/Gestor.h
+iostream
+/Users/mmartinez/Documents/git/est_datos_1/trabajo_en_clases/sem10/lab04/gestor/iostream
+math.h
+-
+
+/Users/mmartinez/Documents/git/est_datos_1/trabajo_en_clases/sem10/lab04/ui/main.cpp
+iostream
+-
+cstdlib
+-
+../gestor/Gestor.h
+/Users/mmartinez/Documents/git/est_datos_1/trabajo_en_clases/sem10/lab04/gestor/Gestor.h
+
