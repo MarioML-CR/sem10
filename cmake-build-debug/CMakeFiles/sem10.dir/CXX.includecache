@@ -15,6 +15,8 @@ iostream
 /Users/mmartinez/Documents/git/est_datos_1/trabajo_en_clases/sem10/lab04/gestor/iostream
 math.h
 -
+stdio.h
+-
 
 /Users/mmartinez/Documents/git/est_datos_1/trabajo_en_clases/sem10/lab04/ui/main.cpp
 iostream

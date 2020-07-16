@@ -56,6 +56,6 @@ void hanoi(){
     scanf("%d",&n); // https://gist.github.com/talespadua/6303251
     cout << "Para resolver a torre de Hanois se requieren " + to_string(gestor.nMovHanoi(n)) +
     "\nEl detalle de los movimientoes es:\n";
-    gestor.hanoi(info, n, 'A', 'C', 'C'); // se pasa por parámetro desreferenciado
+    gestor.hanoi(info, n, 'A', 'C', 'B'); // se pasa por parámetro desreferenciado
     cout << info << endl; // se manda a imprimir lo que está guardado en este dirección de momeria.
 }
